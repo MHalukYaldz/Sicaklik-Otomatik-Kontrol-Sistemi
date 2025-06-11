@@ -1,1 +1,1 @@
-# S-cakl-k-Otomatik-Kontrol-Sistemi
+# Sicaklik-Otomatik-Kontrol-Sistemi
