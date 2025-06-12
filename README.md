@@ -6,6 +6,7 @@ Mikrodenetleyici çalışma gerilimi 3.3V ' tur. Isıtma ve soğutma elemanı i�
 Röle modülleri önündeki S8050 transistörler ile röle anahtarlanıp üzerindeki bobin enerjilendirilmiştir.
 
 REGÜLASYON KATI
+
 12VDC adaptörden alınan giriş gerilimi, röle modülleri ve LCD için L7805CV ile 5VDC gerilimine regüle edilmiştir. Ayrıca 5VDC gerilimi mikrodenetleyicimiz için AMS1117 ile 3.3VDC gerilimine de regüle edilip tüm sistem ayağa kaldırılmıştır.
 
 ![PCB_Bottom](https://github.com/user-attachments/assets/f28f9677-de4e-448c-9e76-550b1ea73909)
